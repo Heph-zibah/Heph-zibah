@@ -10,10 +10,10 @@
 
 ## - 📫 How to reach me:
 [Email](oluwatosinhephzibah@gmail.com)
-[LinkedIn]([https://pages.github.com/](https://www.linkedin.com/in/oluwatosin-ogundeji-b2031b198/))
-[Twitter]([https://pages.github.com/](https://www.twitter.com/undaunted_pen))
-[Medium]([https://pages.github.com/](https://medium.com/@oluwatosinhephzibah))
-[Frontend Mentor]([https://pages.github.com/](https://www.frontendmentor.io/profile/Heph-zibah))
+[LinkedIn](https://pages.github.com/](https://www.linkedin.com/in/oluwatosin-ogundeji-b2031b198/)
+[Twitter](https://pages.github.com/](https://www.twitter.com/undaunted_pen)
+[Medium](https://pages.github.com/](https://medium.com/@oluwatosinhephzibah)
+[Frontend Mentor](https://www.frontendmentor.io/profile/Heph-zibah)
 
 ## - 😄 Pronouns:
 She/Her
