@@ -3,7 +3,8 @@
 ### Hi there 👋
 
 ## - 👯 I’m looking to collaborate on:
--Javacript Framework(Vue.js)
+
+- Javacript Framework(Vue.js)
 - Mobile First Projects
 - Custom Web Components
 
