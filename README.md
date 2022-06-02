@@ -9,11 +9,11 @@
 - Custom Web Components
 
 ## - 📫 How to reach me:
-[Email](oluwatosinhephzibah@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/oluwatosin-ogundeji-b2031b198/)
-[Twitter](https://www.twitter.com/undaunted_pen)
-[Medium](https://medium.com/@oluwatosinhephzibah)
-[Frontend Mentor](https://www.frontendmentor.io/profile/Heph-zibah)
+- [Email](oluwatosinhephzibah@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/oluwatosin-ogundeji-b2031b198/- )
+- [Twitter](https://www.twitter.com/undaunted_pen)
+- [Medium](https://medium.com/@oluwatosinhephzibah)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/Heph-zibah)
 
 ## - 😄 Pronouns:
 She/Her
