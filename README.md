@@ -4,6 +4,14 @@
 
 ## - :raising_hand: About me
 
+## - 🔭 I’m currently working on
+
+## - 🌱 I’m currently learning
+
+## - 🤔 I’m looking for help with
+
+## - 💬 Ask me about
+
 ## - 👯 I’m looking to collaborate on:
 
 - Javacript Framework(Vue.js)
@@ -24,18 +32,3 @@ She/Her
 - I love reading books:Fictions, non-fictions, academics, motivational, of all genres.
 - I love to eat. Appropriate food at appropriate time will make my day.
 - I sleep to make up for the hours of sitting befor my laptop.
-
-
-
-
-<!--
-**Heph-zibah/Heph-zibah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
