@@ -2,6 +2,8 @@
 
 ### Hi there 👋
 
+## - :raising_hand: About me
+
 ## - 👯 I’m looking to collaborate on:
 
 - Javacript Framework(Vue.js)
@@ -18,6 +20,11 @@
 ## - 😄 Pronouns:
 She/Her
 
+## - ⚡ Fun fact: 
+- I love reading books:Fictions, non-fictions, academics, motivational, of all genres.
+- I love to eat. Appropriate food at appropriate time will make my day.
+- I sleep to make up for the hours of sitting befor my laptop.
+
 
 
 
@@ -31,6 +38,4 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
-- ⚡ Fun fact: ...
 -->
