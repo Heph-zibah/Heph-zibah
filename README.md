@@ -1,4 +1,8 @@
+![POrtfolio image](https://user-images.githubusercontent.com/89060358/171656049-89853538-c156-4a64-836e-b92856a5f9b7.jpg)
+
 ### Hi there 👋
+
+
 
 <!--
 **Heph-zibah/Heph-zibah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
