@@ -14,7 +14,7 @@
 
 ## - 👯 I’m looking to collaborate on:
 
-- Javacript Framework(Vue.js)
+- Javacript Framework(ReactJs)
 - Mobile First Projects
 - Custom Web Components
 
