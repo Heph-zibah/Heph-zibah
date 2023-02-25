@@ -20,9 +20,9 @@
 
 ## - 📫 How to reach me:
 - [Email](oluwatosinhephzibah@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/oluwatosin-ogundeji-b2031b198/- )
+- [LinkedIn](https://www.linkedin.com/in/oluwatosin-daramola-b2031b198/)
 - [Twitter](https://www.twitter.com/undaunted_pen)
-- [Medium](https://medium.com/@oluwatosinhephzibah)
+- [Medium](https://medium.com/@oadaramola)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/Heph-zibah)
 
 ## - 😄 Pronouns:
