@@ -31,4 +31,4 @@ She/Her
 ## - ⚡ Fun fact: 
 - I love reading books:Fictions, non-fictions, academics, motivational, of all genres.
 - I love to eat. Appropriate food at appropriate time will make my day.
-- I sleep to make up for the hours of sitting befor my laptop.
+- I sleep to make up for the hours of sitting before my laptop.
