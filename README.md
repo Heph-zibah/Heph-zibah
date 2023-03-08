@@ -7,8 +7,13 @@
 ## - 🔭 I’m currently working on
 
 ## - 🌱 I’m currently learning
+- Redux
+- Sass
+- Styled Components
+- Mobile Responsiveness
 
 ## - 🤔 I’m looking for help with
+- Internship
 
 ## - 💬 Ask me about
 
