@@ -14,6 +14,7 @@
 
 ## - 🤔 I’m looking for help with
 - Internship
+- Junior Fronend dev role
 
 ## - 💬 Ask me about
 
