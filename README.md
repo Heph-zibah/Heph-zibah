@@ -7,27 +7,27 @@
 ## - 🔭 I’m currently working on
 
 ## - 🌱 I’m currently learning
-- Redux
+- Vuejs
 - Sass
 - Styled Components
 - Mobile Responsiveness
 
 ## - 🤔 I’m looking for help with
 - Internship
-- Junior Fronend dev role
+- Junior Frontend dev role
 
 ## - 💬 Ask me about
 
 ## - 👯 I’m looking to collaborate on:
 
-- Javacript Framework(ReactJs)
+- Javacript Framework(VueJs)
 - Mobile First Projects
 - Custom Web Components
 
 ## - 📫 How to reach me:
-- [Email](oluwatosinhephzibah@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/oluwatosin-daramola-b2031b198/)
-- [Twitter](https://www.twitter.com/undaunted_pen)
+- [Email](oluwatosindaramola07@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/oadaramola/)
+- [Twitter]( https://twitter.com/oadaramola10)
 - [Medium](https://medium.com/@oadaramola)
 - [Frontend Mentor](https://www.frontendmentor.io/profile/Heph-zibah)
 
