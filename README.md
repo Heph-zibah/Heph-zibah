@@ -1,4 +1,4 @@
-![POrtfolio image](https://user-images.githubusercontent.com/89060358/171656049-89853538-c156-4a64-836e-b92856a5f9b7.jpg)
+![POrtfolio image](https://github.com/user-attachments/assets/20993116-a050-4283-a46c-312ab07226ac)
 
 ### Hi there 👋
 
