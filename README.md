@@ -3,24 +3,25 @@
 ### Hi there 👋
 
 ## - :raising_hand: About me
+Hey there! I’m a frontend developer who enjoys turning ideas into clean, responsive, and accessible interfaces. I build with HTML, CSS, JavaScript, Vue, and React/Next.js, and I’m not afraid to wrangle TypeScript or dive deep into Tailwind CSS v4. I’m passionate about writing maintainable code and constantly pushing myself to improve with each project.
 
 ## - 🔭 I’m currently working on
 
 ## - 🌱 I’m currently learning
-- Vuejs
-- Sass
-- Styled Components
-- Mobile Responsiveness
+- API integration
+- Authentication flows
+- State management across different frameworks.
+- Improving my debugging skills
+- Learning how to structure larger projects like a pro.
 
 ## - 🤔 I’m looking for help with
-- Internship
-- Junior Frontend dev role
+- Mid Level Frontend dev role
 
 ## - 💬 Ask me about
 
 ## - 👯 I’m looking to collaborate on:
 
-- Javacript Framework(VueJs)
+- Javacript Framework(VueJs, React, Next.JS)
 - Mobile First Projects
 - Custom Web Components
 
